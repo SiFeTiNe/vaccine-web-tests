@@ -5,7 +5,7 @@ Testing [Vaccine Haven](https://github.com/3-00AM/vaccine-haven) with robot fram
 ## Get started
 - `git clone https://github.com/keyboard2543/vaccine-web-tests.git`
 - `cd vaccine-web-tests`
-- Install your prefered webdriver and change in vaccine_haven_test.robot `${browser} <here>` (default is chromedriver)
+- Install your prefered webdriver and change in reservation_test.robot `${browser} <here>` (default is chromedriver)
 - `pip install -r requirements.txt`
 - `robot reservation_test.robot`
 
