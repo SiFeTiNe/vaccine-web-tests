@@ -4,7 +4,7 @@ Library    SeleniumLibrary
 *** Variables ***
 ${url}    https://vaccine-haven.herokuapp.com/
 ${browser}    chrome
-${citizen_id}    9621054562945
+${citizen_id}    9621054562944
 ${firstname}    Sahatsawat
 ${lastname}    KANPAI
 ${birth_date}    10/21/2000
